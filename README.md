@@ -14,27 +14,30 @@
     <!-- Scikit-learn -->
     <img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-FFFFFF?style=flat&labelColor=5E376D&color=FFFFFF&logo=scikitlearn&logoColor=FFFFFF">
     <!-- Status -->
-    <img alt="status" src="https://img.shields.io/badge/Status-Em_desenvolvimento-FFFFFF?style=flat&logoColor=1ED760&labelColor=000000">
+    <img alt="status" src="https://img.shields.io/badge/Status-Concluído-FFFFFF?style=flat&logoColor=1ED760&labelColor=000000">
 </p>
 
 # Projeto: Modelo preditivo para Marketing Digital
-Este projeto visa desenvolver um modelo preditivo para prever o valor gasto pelo usuário, além de antecipar o retorno de uma campanha e otimizar as estratégias de marketing utilizando os dados reais do Google Merchandising Store.
+Este projeto visa desenvolver um modelo preditivo para prever o valor gasto pelo usuário em um site de e-commerce.
 
 # Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#licença)
 
 # Descrição do projeto
-Em breve. 🚧
-
-# Funcionalidades e Demonstração da Aplicação
-Em breve. 🚧
+Este repositório visa desenvolver um modelo preditivo para prever o valor gasto pelo usuário, além de antecipar o retorno de uma campanha e otimizar as estratégias de marketing utilizando os dados reais do Google Merchandising Store.
+Este projeto foi criado para fins de aprendizado e aplicação dos conhecimentos adquiridos referente o modelo de regressão.
 
 # Tecnologias utilizadas
-Em breve. 🚧
-
+- **Linguagem:** Python 3.11.5
+- **Bibliotecas:** 
+    - Pandas: 2.1.1
+    - Matplotlib: 3.8.0
+    - Seaborn: 0.12.0
+    - NumPy: 1.24.3
+    - Scikit-learn: 1.3.0
+    
 # Licença
 [MIT License](https://opensource.org/license/mit/)
